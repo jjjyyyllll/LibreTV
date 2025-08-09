@@ -114,9 +114,14 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-    testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
+    CKs: {
+        api: 'https://ckzy.me/api.php/provide/vod/',
+        name: 'CK资源',
+        adult: true
+    },
+    Jkun: {
+        api: 'https://jkunzyapi.com/api.php/provide/vod/',
+        name: 'JKUN资源',
         adult: true
     },
 };
